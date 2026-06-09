@@ -47,11 +47,7 @@ LifeLoop aims to provide a centralized platform where users can manage tasks, sc
 - Weather-aware recommendations
 - Secure and responsive user experience
 
-## 👨‍💻 Developed By
 
-**Shrabanee Routray**  
-Centurion University of Technology & Management
 
----
 
 ⭐ *Build Better Habits. Stay Organized. Build Better Days.*
